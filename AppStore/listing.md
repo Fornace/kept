@@ -68,4 +68,5 @@ Vision and marks suggested windows as suggestions in the check sheet.
 ## Screenshots
 
 - iPhone 6.9" (1320x2868): AppStore/screenshots/iphone-1-desk.png, iphone-2-library.png, iphone-3-settings.png
-- Mac (as captured): AppStore/screenshots/mac-1-desk.png
+- Mac screenshots must be captured on a clean desktop: the shared Mac used for this build had other
+  agents' windows over the app window and screen capture refused window-scoped images.
