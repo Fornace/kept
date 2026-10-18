@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "assetId": "sha256:92d926c7219994fba4175b76c34586a261ecdd28f6d16bc6deccc1a38e055372",
+  "byteSize": 385610,
+  "mimeType": "image/png",
+  "kind": "image",
+  "canonicalPath": "artifacts/media/92d926c7219994fba4175b76c34586a261ecdd28f6d16bc6deccc1a38e055372/original.png",
+  "name": "22-desk.png",
+  "availability": "available",
+  "width": 1320,
+  "height": 2868,
+  "provenance": [
+    {
+      "ingress": "read-original",
+      "capturedAt": "2026-10-18T10:25:48.133Z",
+      "sourcePath": "/Users/ffrappo/works/scratch/ds-fleet-host/cx/app-01-receipts/.probe/shots/22-desk.png"
+    }
+  ]
+}

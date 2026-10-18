@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "assetId": "sha256:faac833370a2e3b6690a8af25324de055fddea923b50c7880366e70ed335a0c3",
+  "byteSize": 656083,
+  "mimeType": "image/png",
+  "kind": "image",
+  "canonicalPath": "artifacts/media/faac833370a2e3b6690a8af25324de055fddea923b50c7880366e70ed335a0c3/original.png",
+  "name": "mac-01.png",
+  "availability": "available",
+  "width": 2240,
+  "height": 2052,
+  "provenance": [
+    {
+      "ingress": "read-original",
+      "capturedAt": "2026-10-18T09:56:18.217Z",
+      "sourcePath": "/Users/ffrappo/works/scratch/ds-fleet-host/cx/app-01-receipts/.probe/shots/mac-01.png"
+    }
+  ]
+}

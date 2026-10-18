@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "assetId": "sha256:404fcf5ff5077f3035664b6a994db7b436c03f6d04f9f5b991c6fefbbb65c37a",
+  "byteSize": 412012,
+  "mimeType": "image/png",
+  "kind": "image",
+  "canonicalPath": "artifacts/media/404fcf5ff5077f3035664b6a994db7b436c03f6d04f9f5b991c6fefbbb65c37a/original.png",
+  "name": "10-empty.png",
+  "availability": "available",
+  "width": 1320,
+  "height": 2868,
+  "provenance": [
+    {
+      "ingress": "read-original",
+      "capturedAt": "2026-10-18T09:54:16.015Z",
+      "sourcePath": "/Users/ffrappo/works/scratch/ds-fleet-host/cx/app-01-receipts/.probe/shots/10-empty.png"
+    }
+  ]
+}

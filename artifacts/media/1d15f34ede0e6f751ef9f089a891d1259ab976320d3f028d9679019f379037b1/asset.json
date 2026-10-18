@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "assetId": "sha256:1d15f34ede0e6f751ef9f089a891d1259ab976320d3f028d9679019f379037b1",
+  "byteSize": 379265,
+  "mimeType": "image/png",
+  "kind": "image",
+  "canonicalPath": "artifacts/media/1d15f34ede0e6f751ef9f089a891d1259ab976320d3f028d9679019f379037b1/original.png",
+  "name": "library.png",
+  "availability": "available",
+  "width": 1320,
+  "height": 2868,
+  "provenance": [
+    {
+      "ingress": "read-original",
+      "capturedAt": "2026-10-18T10:44:15.553Z",
+      "sourcePath": "/Users/ffrappo/works/scratch/ds-fleet-host/cx/app-01-receipts/.probe/final/library.png"
+    }
+  ]
+}

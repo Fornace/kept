@@ -1,0 +1,8 @@
+.DS_Store
+*.xcuserstate
+xcuserdata/
+.build/
+.probe/
+DerivedData/
+artifacts/renders/
+task.md

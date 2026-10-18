@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "assetId": "sha256:e0ef81a98621a179d7a7240a7449e49cd025b3eb8809f816163c32560d394e63",
+  "byteSize": 302370,
+  "mimeType": "image/jpeg",
+  "kind": "image",
+  "canonicalPath": "artifacts/media/e0ef81a98621a179d7a7240a7449e49cd025b3eb8809f816163c32560d394e63/original.jpg",
+  "name": "icon-source-1.jpg",
+  "availability": "available",
+  "width": 1024,
+  "height": 1024,
+  "provenance": [
+    {
+      "ingress": "image_generate",
+      "capturedAt": "2026-10-18T10:43:02.482Z",
+      "sourcePath": "/Users/ffrappo/works/scratch/ds-fleet-host/cx/app-01-receipts/artifacts/icon/icon-source-1.jpg"
+    },
+    {
+      "ingress": "vision",
+      "capturedAt": "2026-10-18T10:44:58.880Z",
+      "sourcePath": "/Users/ffrappo/works/scratch/ds-fleet-host/cx/app-01-receipts/artifacts/icon/icon-source-1.jpg"
+    }
+  ]
+}
