@@ -68,5 +68,6 @@ Vision and marks suggested windows as suggestions in the check sheet.
 ## Screenshots
 
 - iPhone 6.9" (1320x2868): AppStore/screenshots/iphone-1-desk.png, iphone-2-library.png, iphone-3-settings.png
-- Mac screenshots must be captured on a clean desktop: the shared Mac used for this build had other
-  agents' windows over the app window and screen capture refused window-scoped images.
+- Mac screenshots are pending: the Mac used for this build had its screen locked
+  (CGSSessionScreenIsLocked=1) by the time the build was ready, so the window server returned black
+  frames and refused window-scoped captures. Capture on an unlocked Mac at 2560x1600 or 2880x1800.

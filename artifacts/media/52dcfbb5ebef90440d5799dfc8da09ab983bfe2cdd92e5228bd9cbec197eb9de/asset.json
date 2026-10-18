@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "assetId": "sha256:52dcfbb5ebef90440d5799dfc8da09ab983bfe2cdd92e5228bd9cbec197eb9de",
+  "byteSize": 23111,
+  "mimeType": "image/png",
+  "kind": "image",
+  "canonicalPath": "artifacts/media/52dcfbb5ebef90440d5799dfc8da09ab983bfe2cdd92e5228bd9cbec197eb9de/original.png",
+  "name": "mac-desk.png",
+  "availability": "available",
+  "width": 2240,
+  "height": 2052,
+  "provenance": [
+    {
+      "ingress": "read-original",
+      "capturedAt": "2026-10-18T10:57:49.360Z",
+      "sourcePath": "/Users/ffrappo/works/scratch/ds-fleet-host/cx/app-01-receipts/.probe/final/mac-desk.png"
+    },
+    {
+      "ingress": "vision",
+      "capturedAt": "2026-10-18T10:57:54.153Z",
+      "sourcePath": "/Users/ffrappo/works/scratch/ds-fleet-host/cx/app-01-receipts/.probe/final/mac-desk.png"
+    }
+  ]
+}
