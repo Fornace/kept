@@ -1,10 +1,7 @@
 #!/usr/bin/env bash
 # One command to archive, export and upload Kept to App Store Connect.
 #
-# It needs one thing that is not on this Mac yet: the App Store Connect team key
-#   ~/.agent_credentials/apple/AuthKey_K6R4NZ46Z5.p8
-# named in appstore-connect.env. With that file present, Xcode can register the App Group
-# capability, mint the distribution profiles, sign, export and upload without any further edit.
+# Registers the App Group capability, mints the distribution profiles, signs, exports and uploads.
 #
 #   scripts/upload.sh
 #

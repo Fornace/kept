@@ -25,7 +25,7 @@ Kept keeps both. Photograph the paper, or hand it a PDF from your inbox, and Kep
 - Return windows, counted down to the last day you can take something back.
 - Warranties, so a fault is reported while the shop still pays for the repair.
 
-Every scan opens a check sheet with the fields Kept read, so a wrong total is one tap away from right. When the receipt states its own terms, Kept uses them; when it does not, Kept suggests what shops in that category usually offer and says so.
+Every scan opens a check sheet with the fields Kept read, ready to confirm or change in one tap. When the receipt states its own terms, Kept uses them; when it does not, Kept suggests what shops in that category usually offer and says so.
 
 WHAT IT DOES
 
@@ -66,4 +66,4 @@ Apple Intelligence is optional; Kept reads every receipt with Vision and shows s
 
 ## Screenshots
 
-- iPhone 6.9" (1320x2868): AppStore/screenshots/iphone-1-desk.png, iphone-2-library.png, iphone-3-settings.png
+- iPhone 6.9" (1320x2868): AppStore/screenshots/iphone-1-desk.png, iphone-3-settings.png
