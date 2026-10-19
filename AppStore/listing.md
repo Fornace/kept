@@ -25,7 +25,7 @@ Kept keeps both. Photograph the paper, or hand it a PDF from your inbox, and Kep
 - Return windows, counted down to the last day you can take something back.
 - Warranties, so a fault is reported while the shop still pays for the repair.
 
-Nothing is guessed silently. Every scan opens a check sheet with the fields Kept read, so a wrong total is one tap away from right. When the receipt states its own terms, Kept uses them; when it does not, Kept suggests what shops in that category usually offer and says so.
+Every scan opens a check sheet with the fields Kept read, so a wrong total is one tap away from right. When the receipt states its own terms, Kept uses them; when it does not, Kept suggests what shops in that category usually offer and says so.
 
 WHAT IT DOES
 
@@ -62,12 +62,8 @@ is stored in the app's own container on the device. The only shared storage is a
 holding the deadline summary that the widget renders.
 
 To see the app with data, add a receipt from the + button: choose a photo, a PDF or "Type it in".
-Apple Intelligence is optional; when the system model is unavailable Kept reads the receipt with
-Vision and marks suggested windows as suggestions in the check sheet.
+Apple Intelligence is optional; Kept reads every receipt with Vision and shows suggested windows as suggestions in the check sheet.
 
 ## Screenshots
 
 - iPhone 6.9" (1320x2868): AppStore/screenshots/iphone-1-desk.png, iphone-2-library.png, iphone-3-settings.png
-- Mac screenshots are pending: the Mac used for this build had its screen locked
-  (CGSSessionScreenIsLocked=1) by the time the build was ready, so the window server returned black
-  frames and refused window-scoped captures. Capture on an unlocked Mac at 2560x1600 or 2880x1800.
